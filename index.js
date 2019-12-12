@@ -8,7 +8,7 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      name: kebabCase("React hello, BAE!!!!")
+      name: kebabCase("React hello, dafs BAE!!!!")
     };
   }
 
